@@ -1,0 +1,1 @@
+# Jogo-da-Forca-com-Interface-Gr-fica-usando-Python-e-Tkinter
